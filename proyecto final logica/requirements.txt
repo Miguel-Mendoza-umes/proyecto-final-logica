@@ -1,6 +1,0 @@
-tkinter
-os
-matplotlib
-matplotlib-venn
-subprocess
-Pillow
