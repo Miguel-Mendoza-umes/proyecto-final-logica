@@ -1,0 +1,12 @@
+Para poder utilizar el codigo de c++ utilizar los siguientes comandos:
+
+#compilar:
+1. el atajo rapido (shift + ctrl + b) este método requiere tener correctamente configurado el entorno de compilación en VS Code (tasks.json).
+
+2. conjuntos.cpp -o conjuntos.exe
+
+#ejecutar:
+./conjuntos.exe
+
+#nota
+Asegúrarse de tener instalado g++ (incluido en paquetes como MinGW o instalado en el entorno de desarrollo).
